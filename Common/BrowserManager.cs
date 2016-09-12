@@ -142,7 +142,6 @@ namespace TADASHBOARRD.Common
         /// </summary>
         public static void CloseBrowser()
         {  	
-		//hi
             WebDriver.driver.Manage().Cookies.DeleteAllCookies();
             WebDriver.driver.Quit();
             foreach (Process process in Process.GetProcessesByName("iexplore"))
