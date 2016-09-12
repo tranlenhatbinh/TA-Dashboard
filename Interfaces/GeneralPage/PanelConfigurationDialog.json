@@ -1,0 +1,27 @@
+[
+  {
+    "controlName": "select page combobox",
+    "type": "id",
+    "value": "cbbPages"
+  },
+  {
+    "controlName": "height textbox",
+    "type": "id",
+    "value": "txtHeight"
+  },
+  {
+    "controlName": "folder textbox",
+    "type": "id",
+    "value": "txtFolder"
+  },
+  {
+    "controlName": "ok button",
+    "type": "id",
+    "value": "OK"
+  },
+  {
+    "controlName": "cancel button",
+    "type": "id",
+    "value": "Cancel"
+  }
+]

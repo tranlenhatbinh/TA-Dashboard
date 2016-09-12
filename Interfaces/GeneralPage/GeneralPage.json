@@ -1,0 +1,117 @@
+[
+  {
+    "controlName": "user tab",
+    "type": "xpath",
+    "value": "//a[@href='#Welcome']/.."
+  },
+  {
+    "controlName": "global setting tab",
+    "type": "xpath",
+    "value": "//li[@class='mn-setting']/a"
+  },
+  {
+    "controlName": "administer tab",
+    "type": "xpath",
+    "value":  "//a[.='Administer']"
+  },
+  {
+    "controlName": "add page tab",
+    "type": "xpath",
+    "value": "//a[.='Add Page']"
+  },
+    {
+    "controlName": "edit page tab",
+    "type": "xpath",
+    "value": "//a[.='Edit']"
+  },
+  {
+    "controlName": "create profile tab",
+    "type": "xpath",
+    "value": "//a[.='Create Profile']"
+  },
+  {
+    "controlName": "panels tab",
+    "type": "xpath",
+    "value": "//a[.='Panels']"
+  },
+   {
+    "controlName": "create panel tab",
+    "type": "xpath",
+    "value": "//a[.='Create Panel']"
+  },
+  {
+    "controlName": "edit tab",
+    "type": "xpath",
+    "value": "//a[.='Edit']"
+  },
+  {
+    "controlName": "delete tab",
+    "type": "xpath",
+    "value": "//a[.='Delete']"
+  },
+  {
+    "controlName": "overview tab",
+    "type": "xpath",
+    "value": "//a[.='Overview']"
+  },
+  {
+    "controlName": "execution dashboard tab",
+    "type": "xpath",
+    "value": "//a[.='Execution Dashboard']"
+  },
+  {
+    "controlName": "logout tab",
+    "type": "xpath",
+    "value": "//a[.='Logout']"
+  },
+  {
+    "controlName": "repository tab",
+    "type": "xpath",
+    "value": "//a[@href='#Repository']"
+  },
+  {
+    "controlName": "repository label",
+    "type": "xpath",
+    "value": "//a[@href='#Repository']/span"
+  },
+  {
+    "controlName": "login repository popup",
+    "type": "xpath",
+    "value": "//h2[.='Login Repository']"
+  },
+  {
+    "controlName": "choose panels button",
+    "type": "id",
+    "value": "btnChoosepanel"
+  },
+  {
+    "controlName": "second page tab",
+    "type": "xpath",
+    "value": "//div[@id='main-menu']/div/ul/li[2]/a"
+  },
+  {
+    "controlName": "random page tab",
+    "type": "xpath",
+    "value": "//a[.='{0}']"
+  },
+  {
+    "controlName": "data profiles tab",
+    "type": "xpath",
+    "value": "//a[.='Data Profiles']"
+  },
+  {
+    "controlName": "create new panel button",
+    "type": "xpath",
+    "value": "//span[.='Create new panel']"
+  },
+  {
+    "controlName": "chart instance table",
+    "type": "xpath",
+    "value": "//div[@class='ptit pchart']/../table/tr"
+  },
+  {
+    "controlName": "random chart instance link",
+    "type": "xpath",
+    "value": "//div[@class='ptit pchart']/../table//tr[{0}]/td[{1}]"
+  }
+]

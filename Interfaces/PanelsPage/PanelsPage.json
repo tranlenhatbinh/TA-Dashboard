@@ -1,0 +1,17 @@
+[
+  {
+    "controlName": "add new link",
+    "type": "xpath",
+    "value": "//a[.='Add New']"
+  },
+  {
+    "controlName": "delete link",
+    "type": "xpath",
+    "value": "//div[@class='panel_tag2']//a[.='Delete']"
+  },
+  {
+    "controlName": "check all link",
+    "type": "xpath",
+    "value": "//a[.='Check All']"
+  }
+]

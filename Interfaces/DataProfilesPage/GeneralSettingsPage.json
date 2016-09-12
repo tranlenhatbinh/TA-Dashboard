@@ -1,0 +1,42 @@
+[
+  {
+    "controlName": "name textbox",
+    "type": "id",
+    "value": "txtProfileName"
+  },
+  {
+    "controlName": "item type combobox",
+    "type": "id",
+    "value": "cbbEntityType"
+  },
+ {
+    "controlName": "related data combobox",
+    "type": "id",
+    "value": "cbbSubReport"
+  },
+  {
+    "controlName": "next button",
+    "type": "xpath",
+    "value": "//input[@value='Next']"
+  },
+  {
+    "controlName": "finish button",
+    "type": "xpath",
+    "value": "//input[@value='Finish']"
+  },
+  {
+    "controlName": "cancel button",
+    "type": "xpath",
+    "value": "//input[@value='Cancel']"
+  },
+  {
+    "controlName": "item type combobox child",
+    "type": "xpath",
+    "value": "//select[@id='cbbEntityType']/option[{0}]"
+  },
+  {
+    "controlName": "item type combobox",
+    "type": "xpath",
+    "value": "//select[@id='cbbEntityType']"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "controlName": "page name textbox",
+    "type": "id",
+    "value": "name"
+  },
+  {
+    "controlName": "parent page combobox",
+    "type": "id",
+    "value": "parent"
+  },
+  {
+    "controlName": "number of columns combobox",
+    "type": "id",
+    "value": "columnnumber"
+  },
+  {
+    "controlName": "display after combobox",
+    "type": "id",
+    "value": "afterpage"
+  },
+  {
+    "controlName": "public checkbox",
+    "type": "id",
+    "value": "ispublic"
+  },
+  {
+    "controlName": "ok button",
+    "type": "id",
+    "value": "OK"
+  },
+  {
+    "controlName": "cancel button",
+    "type": "id",
+    "value": "Cancel"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "controlName": "repository combobox",
+    "type": "id",
+    "value": "repository"
+  },
+  {
+    "controlName": "username textbox",
+    "type": "id",
+    "value": "username"
+  },
+  {
+    "controlName": "password textbox",
+    "type": "id",
+    "value": "password"
+  },
+  {
+    "controlName": "login button",
+    "type": "classname",
+    "value": "btn-login"
+  }
+]

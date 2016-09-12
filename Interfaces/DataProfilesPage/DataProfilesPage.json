@@ -1,0 +1,72 @@
+[
+  {
+    "controlName": "delete link",
+    "type": "xpath",
+    "value": "//div[@class='panel_tag2']/a[.='Delete']"
+  },
+  {
+    "controlName": "add new link",
+    "type": "xpath",
+    "value": "//div[@class='panel_tag2']/a[.='Add New']"
+  },
+  {
+    "controlName": "check all link",
+    "type": "xpath",
+    "value": "//a[.='Check All']"
+  },
+  {
+    "controlName": "uncheck all link",
+    "type": "xpath",
+    "value": "//a[.='UnCheck All']"
+  },
+  {
+    "controlName": "general settings tab",
+    "type": "xpath",
+    "value": "//li[.='General Settings']"
+  },
+  {
+    "controlName": "display fields tab",
+    "type": "xpath",
+    "value": "//li[.='Display Fields']"
+  },
+  {
+    "controlName": "sort fields tab",
+    "type": "xpath",
+    "value": "//li[.='Sort Fields']"
+  },
+  {
+    "controlName": "filter fields tab",
+    "type": "xpath",
+    "value": "//li[.='Filter Fields']"
+  },
+  {
+    "controlName": "statistic fields tab",
+    "type": "xpath",
+    "value": "//li[.='Statistic Fields']"
+  },
+  {
+    "controlName": "display sub-fields tab",
+    "type": "xpath",
+    "value": "//li[.='Display Sub-Fields']"
+  },
+  {
+    "controlName": "sort sub-fields tab",
+    "type": "xpath",
+    "value": "//li[.='Sort Sub-Fields']"
+  },
+  {
+    "controlName": "filter sub-fields tab",
+    "type": "xpath",
+    "value": "//li[.='Filter Sub-Fields']"
+  },
+  {
+    "controlName": "statistic sub-fields tab",
+    "type": "xpath",
+    "value": "//li[.='Statistic Sub-Fields']"
+  },
+  {
+    "controlName": "fields header",
+    "type": "xpath",
+    "value": "//td[@class='profilesettingheader']"
+  }
+]

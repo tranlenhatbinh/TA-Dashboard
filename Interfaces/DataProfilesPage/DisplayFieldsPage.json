@@ -1,0 +1,17 @@
+[
+  {
+    "controlName": "checkall link",
+    "type": "xpath",
+    "value": "//a[.='Check All']"
+  },
+  {
+    "controlName": "uncheckall link",
+    "type": "xpath",
+    "value": "//a[.='Uncheck All']"
+  },
+  {
+    "controlName": "Displayfields table",
+    "type": "xpath",
+    "value":  "//*[@id='profilesettings']/tbody//tr"
+  }
+]
